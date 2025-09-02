@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Whispers of the Wind",
+    "title": "A Tale of Hope and Freedom",
+    "price": 299,
+    "category": "Fiction",
+    "image": "https://i.pinimg.com/736x/de/69/62/de69627fb0fba8b26db7dda3837ccb26.jpg",
+    "description": "An inspiring story that takes you on a journey of courage, resilience, and the strength of dreams against all odds."
+  },
+  {
+    "id": 2,
+    "name": "The Hidden",
+    "title": "Journey into the Unknown",
+    "price": 449,
+    "category": "Adventure",
+    "image": "https://i.pinimg.com/736x/de/69/62/de69627fb0fba8b26db7dda3837ccb26.jpg",
+    "description": "A thrilling adventure that unveils mysteries, tests friendships, and reveals the true meaning of destiny."
+  },
+  {
+    "id": 3,
+    "name": "Echoes of Silence",
+    "title": "The Heart’s Untold Stories",
+    "price": 379,
+    "category": "Drama",
+    "image": "https://i.pinimg.com/736x/de/69/62/de69627fb0fba8b26db7dda3837ccb26.jpg",
+    "description": "A moving drama that explores emotions, loss, and the hidden power of unspoken words in shaping lives."
+  },
+  {
+    "id": 4,
+    "name": "Wings of Imagination",
+    "title": "Stories Beyond the Horizon",
+    "price": 520,
+    "category": "Fantasy",
+    "image": "https://i.pinimg.com/736x/de/69/62/de69627fb0fba8b26db7dda3837ccb26.jpg",
+    "description": "Dive into a magical world where imagination knows no bounds and every page opens a door to a new universe."
+  },
+  {
+    "id": 5,
+    "name": "Shadows of Time",
+    "title": "Chronicles of the Forgotten Past",
+    "price": 410,
+    "category": "Historical",
+    "image": "https://i.pinimg.com/736x/de/69/62/de69627fb0fba8b26db7dda3837ccb26.jpg",
+    "description": "A gripping historical tale that weaves together forgotten legends, timeless wisdom, and stories lost in time."
+  },
+  {
+    "id": 6,
+    "name": "Dreamer’s Journal",
+    "title": "Free Collection of Life Lessons",
+    "price": 0,
+    "category": "Free",
+    "image": "https://i.pinimg.com/736x/de/69/62/de69627fb0fba8b26db7dda3837ccb26.jpg",
+    "description": "A free-to-read motivational collection that inspires readers to believe in themselves and chase their passions."
+  },
+  {
+    "id": 7,
+    "name": "Tales for Everyone",
+    "title": "Stories that Touch the Heart",
+    "price": 0,
+    "category": "Free",
+    "image": "https://i.pinimg.com/736x/de/69/62/de69627fb0fba8b26db7dda3837ccb26.jpg",
+    "description": "A heartwarming set of free short stories meant to spark joy, kindness, and reflection in every reader."
+  },
+  {
+    "id": 8,
+    "name": "Knowledge Seeds",
+    "title": "Free Book of Wisdom",
+    "price": 0,
+    "category": "Free",
+    "image": "https://i.pinimg.com/736x/de/69/62/de69627fb0fba8b26db7dda3837ccb26.jpg",
+    "description": "Packed with thoughtful insights and valuable lessons, this free book is a treasure for curious and growing minds."
+  },
+  {
+    "id": 9,
+    "name": "Light of Kindness",
+    "title": "Free Moral Stories",
+    "price": 0,
+    "category": "Free",
+    "image": "https://i.pinimg.com/736x/de/69/62/de69627fb0fba8b26db7dda3837ccb26.jpg",
+    "description": "A simple yet impactful free book of short tales teaching kindness, empathy, and the beauty of small good deeds."
+  },
+  {
+    "id": 10,
+    "name": "Waves of Inspiration",
+    "title": "Free Motivational Collection",
+    "price": 0,
+    "category": "Free",
+    "image": "https://i.pinimg.com/736x/de/69/62/de69627fb0fba8b26db7dda3837ccb26.jpg",
+    "description": "Filled with inspiring quotes and real-life stories, this free book helps you rise above challenges and move forward."
+  },
+  {
+    "id": 11,
+    "name": "Legends Retold",
+    "title": "Free Folktales and Myths",
+    "price": 0,
+    "category": "Free",
+    "image": "https://i.pinimg.com/736x/de/69/62/de69627fb0fba8b26db7dda3837ccb26.jpg",
+    "description": "A free collection of timeless folktales and legends retold for a new generation of readers."
+  },
+  {
+    "id": 12,
+    "name": "Mindful Moments",
+    "title": "Free Guide to Inner Peace",
+    "price": 0,
+    "category": "Free",
+    "image": "https://i.pinimg.com/736x/de/69/62/de69627fb0fba8b26db7dda3837ccb26.jpg",
+    "description": "A calming free book that offers short practices, reflections, and stories to bring peace and mindfulness into daily life."
+  }
+]

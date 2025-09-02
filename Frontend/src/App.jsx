@@ -1,5 +1,6 @@
 import React from "react";
 import Home from "./home/Home";
+import Contact from "./components/Contact"
 import { Navigate, Route, Routes } from "react-router-dom";
 import Courses from "./courses/Courses";
 import Signup from "./components/Signup";
@@ -18,6 +19,7 @@ function App() {
             path="/course"
             element={authUser ? <Courses /> : <Navigate to="/signup" />}
           />
+          <Route path="/contact" element={<Contact />} />
           <Route path="/signup" element={<Signup />} />
         </Routes>
         <Toaster />
